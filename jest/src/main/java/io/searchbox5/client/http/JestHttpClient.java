@@ -1,13 +1,13 @@
-package io.searchbox.client.http;
+package io.searchbox5.client.http;
 
 import com.google.gson.Gson;
-import io.searchbox.action.Action;
-import io.searchbox.client.AbstractJestClient;
-import io.searchbox.client.JestResult;
-import io.searchbox.client.JestResultHandler;
-import io.searchbox.client.config.exception.CouldNotConnectException;
-import io.searchbox.client.http.apache.HttpDeleteWithEntity;
-import io.searchbox.client.http.apache.HttpGetWithEntity;
+import io.searchbox5.action.Action;
+import io.searchbox5.client.AbstractJestClient;
+import io.searchbox5.client.JestResult;
+import io.searchbox5.client.JestResultHandler;
+import io.searchbox5.client.config.exception.CouldNotConnectException;
+import io.searchbox5.client.http.apache.HttpDeleteWithEntity;
+import io.searchbox5.client.http.apache.HttpGetWithEntity;
 import org.apache.http.Header;
 import org.apache.http.HttpEntityEnclosingRequest;
 import org.apache.http.HttpRequest;

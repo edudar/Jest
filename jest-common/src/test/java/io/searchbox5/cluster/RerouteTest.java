@@ -1,10 +1,10 @@
-package io.searchbox.cluster;
+package io.searchbox5.cluster;
 
 import com.google.gson.Gson;
-import io.searchbox.cluster.reroute.RerouteAllocateReplica;
-import io.searchbox.cluster.reroute.RerouteCancel;
-import io.searchbox.cluster.reroute.RerouteMove;
-import io.searchbox.cluster.reroute.RerouteCommand;
+import io.searchbox5.cluster.reroute.RerouteAllocateReplica;
+import io.searchbox5.cluster.reroute.RerouteCancel;
+import io.searchbox5.cluster.reroute.RerouteMove;
+import io.searchbox5.cluster.reroute.RerouteCommand;
 import org.json.JSONException;
 import org.junit.Test;
 import org.skyscreamer.jsonassert.JSONAssert;

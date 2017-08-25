@@ -1,4 +1,4 @@
-package io.searchbox.core.search.sort;
+package io.searchbox5.core.search.sort;
 
 import com.google.gson.JsonObject;
 import com.google.gson.JsonPrimitive;

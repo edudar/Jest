@@ -1,8 +1,8 @@
-package io.searchbox.core.search.aggregation;
+package io.searchbox5.core.search.aggregation;
 
-import io.searchbox.common.AbstractIntegrationTest;
-import io.searchbox.core.Search;
-import io.searchbox.core.SearchResult;
+import io.searchbox5.common.AbstractIntegrationTest;
+import io.searchbox5.core.Search;
+import io.searchbox5.core.SearchResult;
 import org.elasticsearch.action.admin.indices.mapping.put.PutMappingRequest;
 import org.elasticsearch.action.admin.indices.mapping.put.PutMappingResponse;
 import org.elasticsearch.test.ESIntegTestCase;

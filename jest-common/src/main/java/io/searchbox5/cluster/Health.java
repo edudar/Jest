@@ -1,9 +1,9 @@
-package io.searchbox.cluster;
+package io.searchbox5.cluster;
 
 import com.google.common.base.Preconditions;
-import io.searchbox.action.AbstractMultiIndexActionBuilder;
-import io.searchbox.action.GenericResultAbstractAction;
-import io.searchbox.strings.StringUtils;
+import io.searchbox5.action.AbstractMultiIndexActionBuilder;
+import io.searchbox5.action.GenericResultAbstractAction;
+import io.searchbox5.strings.StringUtils;
 
 import java.io.UnsupportedEncodingException;
 import java.net.URLEncoder;

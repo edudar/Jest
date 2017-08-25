@@ -1,4 +1,4 @@
-package io.searchbox.core;
+package io.searchbox5.core;
 
 import com.google.common.base.Joiner;
 import com.google.gson.Gson;
@@ -7,9 +7,9 @@ import com.google.gson.JsonObject;
 import com.google.gson.JsonParser;
 import com.google.gson.JsonSyntaxException;
 
-import io.searchbox.action.AbstractAction;
-import io.searchbox.action.AbstractMultiIndexActionBuilder;
-import io.searchbox.action.AbstractMultiTypeActionBuilder;
+import io.searchbox5.action.AbstractAction;
+import io.searchbox5.action.AbstractMultiIndexActionBuilder;
+import io.searchbox5.action.AbstractMultiTypeActionBuilder;
 
 /**
  * @author Bartosz Polnik

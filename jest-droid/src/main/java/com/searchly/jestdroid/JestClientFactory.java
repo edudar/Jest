@@ -1,9 +1,9 @@
 package com.searchly.jestdroid;
 
 import com.google.gson.Gson;
-import io.searchbox.client.JestClient;
-import io.searchbox.client.config.discovery.NodeChecker;
-import io.searchbox.client.config.idle.IdleConnectionReaper;
+import io.searchbox5.client.JestClient;
+import io.searchbox5.client.config.discovery.NodeChecker;
+import io.searchbox5.client.config.idle.IdleConnectionReaper;
 import org.apache.http.client.config.RequestConfig;
 import org.apache.http.config.Registry;
 import org.apache.http.config.RegistryBuilder;

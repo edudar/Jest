@@ -1,4 +1,4 @@
-package io.searchbox.cloning;
+package io.searchbox5.cloning;
 
 import com.google.gson.*;
 

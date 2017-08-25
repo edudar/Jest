@@ -1,4 +1,4 @@
-package io.searchbox.cluster.reroute;
+package io.searchbox5.cluster.reroute;
 
 import com.google.gson.Gson;
 import org.json.JSONException;

@@ -1,4 +1,4 @@
-package io.searchbox.indices.script;
+package io.searchbox5.indices.script;
 
 /**
  * @author cihat keser

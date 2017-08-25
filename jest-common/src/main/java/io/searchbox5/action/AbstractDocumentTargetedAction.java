@@ -1,7 +1,7 @@
-package io.searchbox.action;
+package io.searchbox5.action;
 
-import io.searchbox.client.JestResult;
-import io.searchbox.strings.StringUtils;
+import io.searchbox5.client.JestResult;
+import io.searchbox5.strings.StringUtils;
 
 import java.io.UnsupportedEncodingException;
 import java.net.URLEncoder;

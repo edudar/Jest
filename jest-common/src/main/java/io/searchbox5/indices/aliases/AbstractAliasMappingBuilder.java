@@ -1,4 +1,4 @@
-package io.searchbox.indices.aliases;
+package io.searchbox5.indices.aliases;
 
 import java.util.Collection;
 import java.util.LinkedList;

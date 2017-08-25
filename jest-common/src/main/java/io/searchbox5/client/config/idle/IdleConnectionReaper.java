@@ -1,15 +1,14 @@
-package io.searchbox.client.config.idle;
+package io.searchbox5.client.config.idle;
 
 import com.google.common.util.concurrent.AbstractScheduledService;
 import com.google.common.util.concurrent.MoreExecutors;
 import com.google.common.util.concurrent.ThreadFactoryBuilder;
-import io.searchbox.client.config.ClientConfig;
+import io.searchbox5.client.config.ClientConfig;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 import java.util.concurrent.Executors;
 import java.util.concurrent.ScheduledExecutorService;
-import java.util.concurrent.ThreadFactory;
 
 /**
  * Used to reap idle connections from the connection manager.

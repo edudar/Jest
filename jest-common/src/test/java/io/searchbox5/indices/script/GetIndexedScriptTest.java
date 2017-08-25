@@ -1,10 +1,10 @@
-package io.searchbox.indices.script;
+package io.searchbox5.indices.script;
 
 import org.junit.Before;
 import org.junit.Test;
 
-import static io.searchbox.indices.script.ScriptLanguage.GROOVY;
-import static io.searchbox.indices.script.ScriptLanguage.JAVASCRIPT;
+import static io.searchbox5.indices.script.ScriptLanguage.GROOVY;
+import static io.searchbox5.indices.script.ScriptLanguage.JAVASCRIPT;
 import static org.hamcrest.CoreMatchers.containsString;
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertThat;

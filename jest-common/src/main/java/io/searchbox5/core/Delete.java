@@ -1,7 +1,7 @@
-package io.searchbox.core;
+package io.searchbox5.core;
 
-import io.searchbox.action.BulkableAction;
-import io.searchbox.action.SingleResultAbstractDocumentTargetedAction;
+import io.searchbox5.action.BulkableAction;
+import io.searchbox5.action.SingleResultAbstractDocumentTargetedAction;
 
 /**
  * @author Dogukan Sonmez

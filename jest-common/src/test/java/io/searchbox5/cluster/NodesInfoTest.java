@@ -1,4 +1,4 @@
-package io.searchbox.cluster;
+package io.searchbox5.cluster;
 
 import org.junit.Test;
 

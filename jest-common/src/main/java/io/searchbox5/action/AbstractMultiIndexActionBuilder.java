@@ -1,7 +1,7 @@
-package io.searchbox.action;
+package io.searchbox5.action;
 
 import com.google.common.base.Joiner;
-import io.searchbox.params.Parameters;
+import io.searchbox5.params.Parameters;
 
 import java.util.Collection;
 import java.util.LinkedHashSet;

@@ -1,13 +1,13 @@
-package io.searchbox.core;
+package io.searchbox5.core;
 
 import com.google.gson.Gson;
 import com.google.gson.JsonArray;
 import com.google.gson.JsonElement;
 import com.google.gson.JsonObject;
-import io.searchbox.client.JestResult;
-import io.searchbox.cloning.CloneUtils;
-import io.searchbox.core.search.aggregation.MetricAggregation;
-import io.searchbox.core.search.aggregation.RootAggregation;
+import io.searchbox5.client.JestResult;
+import io.searchbox5.cloning.CloneUtils;
+import io.searchbox5.core.search.aggregation.MetricAggregation;
+import io.searchbox5.core.search.aggregation.RootAggregation;
 
 import java.util.*;
 

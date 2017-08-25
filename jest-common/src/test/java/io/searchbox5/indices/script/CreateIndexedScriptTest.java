@@ -1,4 +1,4 @@
-package io.searchbox.indices.script;
+package io.searchbox5.indices.script;
 
 import com.google.gson.Gson;
 import com.google.gson.JsonObject;
@@ -10,8 +10,8 @@ import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
 
-import static io.searchbox.indices.script.ScriptLanguage.GROOVY;
-import static io.searchbox.indices.script.ScriptLanguage.JAVASCRIPT;
+import static io.searchbox5.indices.script.ScriptLanguage.GROOVY;
+import static io.searchbox5.indices.script.ScriptLanguage.JAVASCRIPT;
 import static org.hamcrest.CoreMatchers.containsString;
 import static org.junit.Assert.*;
 

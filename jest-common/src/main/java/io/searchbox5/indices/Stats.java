@@ -1,8 +1,8 @@
-package io.searchbox.indices;
+package io.searchbox5.indices;
 
 import com.google.common.base.Joiner;
-import io.searchbox.action.AbstractMultiIndexActionBuilder;
-import io.searchbox.action.GenericResultAbstractAction;
+import io.searchbox5.action.AbstractMultiIndexActionBuilder;
+import io.searchbox5.action.GenericResultAbstractAction;
 
 /**
  * @author Dogukan Sonmez

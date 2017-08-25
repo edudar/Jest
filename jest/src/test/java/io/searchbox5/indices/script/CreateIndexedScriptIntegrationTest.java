@@ -1,14 +1,14 @@
-package io.searchbox.indices.script;
+package io.searchbox5.indices.script;
 
-import io.searchbox.client.JestResult;
-import io.searchbox.common.AbstractIntegrationTest;
+import io.searchbox5.client.JestResult;
+import io.searchbox5.common.AbstractIntegrationTest;
 import org.elasticsearch.action.admin.cluster.storedscripts.GetStoredScriptResponse;
 import org.elasticsearch.test.ESIntegTestCase;
 import org.junit.Test;
 
 import java.io.IOException;
 
-import static io.searchbox.indices.script.ScriptLanguage.PAINLESS;
+import static io.searchbox5.indices.script.ScriptLanguage.PAINLESS;
 
 @ESIntegTestCase.ClusterScope(scope = ESIntegTestCase.Scope.TEST, numDataNodes = 1)
 public class CreateIndexedScriptIntegrationTest extends AbstractIntegrationTest {

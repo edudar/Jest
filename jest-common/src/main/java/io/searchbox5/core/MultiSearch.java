@@ -1,9 +1,9 @@
-package io.searchbox.core;
+package io.searchbox5.core;
 
 import com.google.gson.Gson;
-import io.searchbox.action.AbstractAction;
-import io.searchbox.action.GenericResultAbstractAction;
-import io.searchbox.strings.StringUtils;
+import io.searchbox5.action.AbstractAction;
+import io.searchbox5.action.GenericResultAbstractAction;
+import io.searchbox5.strings.StringUtils;
 
 import java.util.Collection;
 import java.util.LinkedList;

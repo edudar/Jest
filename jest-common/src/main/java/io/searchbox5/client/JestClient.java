@@ -1,7 +1,7 @@
-package io.searchbox.client;
+package io.searchbox5.client;
 
 
-import io.searchbox.action.Action;
+import io.searchbox5.action.Action;
 
 import java.io.IOException;
 import java.util.Set;

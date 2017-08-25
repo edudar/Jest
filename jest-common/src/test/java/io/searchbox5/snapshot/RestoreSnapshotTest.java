@@ -1,4 +1,4 @@
-package io.searchbox.snapshot;
+package io.searchbox5.snapshot;
 
 import com.google.gson.Gson;
 import org.elasticsearch.common.settings.Settings;

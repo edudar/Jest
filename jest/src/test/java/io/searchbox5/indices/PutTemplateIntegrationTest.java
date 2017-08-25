@@ -1,10 +1,10 @@
-package io.searchbox.indices;
+package io.searchbox5.indices;
 
 
-import io.searchbox.client.JestResult;
-import io.searchbox.common.AbstractIntegrationTest;
-import io.searchbox.indices.template.GetTemplate;
-import io.searchbox.indices.template.PutTemplate;
+import io.searchbox5.client.JestResult;
+import io.searchbox5.common.AbstractIntegrationTest;
+import io.searchbox5.indices.template.GetTemplate;
+import io.searchbox5.indices.template.PutTemplate;
 import org.elasticsearch.test.ESIntegTestCase;
 import org.junit.Test;
 

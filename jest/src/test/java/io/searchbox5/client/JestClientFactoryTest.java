@@ -1,11 +1,11 @@
-package io.searchbox.client;
+package io.searchbox5.client;
 
 import java.util.HashSet;
 
-import io.searchbox.client.config.ClientConfig;
-import io.searchbox.client.config.HttpClientConfig;
-import io.searchbox.client.config.discovery.NodeChecker;
-import io.searchbox.client.http.JestHttpClient;
+import io.searchbox5.client.config.ClientConfig;
+import io.searchbox5.client.config.HttpClientConfig;
+import io.searchbox5.client.config.discovery.NodeChecker;
+import io.searchbox5.client.http.JestHttpClient;
 import org.apache.http.HttpHost;
 import org.apache.http.auth.AuthScope;
 import org.apache.http.auth.UsernamePasswordCredentials;

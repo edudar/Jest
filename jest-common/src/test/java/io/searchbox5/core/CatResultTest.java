@@ -1,4 +1,4 @@
-package io.searchbox.core;
+package io.searchbox5.core;
 
 import com.google.gson.Gson;
 import org.junit.Test;

@@ -1,6 +1,6 @@
-package io.searchbox.core;
+package io.searchbox5.core;
 
-import io.searchbox.annotations.JestId;
+import io.searchbox5.annotations.JestId;
 
 /**
  * @author ferhat sobay

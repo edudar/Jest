@@ -1,7 +1,7 @@
-package io.searchbox.core;
+package io.searchbox5.core;
 
 import com.google.common.collect.ImmutableMap;
-import io.searchbox.action.GenericResultAbstractAction;
+import io.searchbox5.action.GenericResultAbstractAction;
 
 import java.util.Collection;
 import java.util.LinkedHashSet;

@@ -1,4 +1,4 @@
-package io.searchbox.indices.aliases;
+package io.searchbox5.indices.aliases;
 
 import org.elasticsearch.common.collect.MapBuilder;
 import org.junit.Test;

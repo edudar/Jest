@@ -1,4 +1,4 @@
-package io.searchbox.indices.reindex;
+package io.searchbox5.indices.reindex;
 
 import com.google.common.collect.ImmutableMap;
 import com.google.gson.GsonBuilder;

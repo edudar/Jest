@@ -1,8 +1,8 @@
-package io.searchbox.indices;
+package io.searchbox5.indices;
 
 import com.google.gson.JsonObject;
-import io.searchbox.client.JestResult;
-import io.searchbox.common.AbstractIntegrationTest;
+import io.searchbox5.client.JestResult;
+import io.searchbox5.common.AbstractIntegrationTest;
 import org.elasticsearch.test.ESIntegTestCase;
 import org.junit.Test;
 

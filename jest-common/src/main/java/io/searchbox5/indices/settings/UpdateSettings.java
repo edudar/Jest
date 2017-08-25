@@ -1,6 +1,6 @@
-package io.searchbox.indices.settings;
+package io.searchbox5.indices.settings;
 
-import io.searchbox.action.AbstractMultiIndexActionBuilder;
+import io.searchbox5.action.AbstractMultiIndexActionBuilder;
 
 /**
  * Change specific index level settings in real time.

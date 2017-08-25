@@ -1,9 +1,9 @@
-package io.searchbox.indices.script;
+package io.searchbox5.indices.script;
 
 import com.google.common.io.CharStreams;
 import com.google.gson.JsonElement;
 import com.google.gson.JsonObject;
-import io.searchbox.action.AbstractAction;
+import io.searchbox5.action.AbstractAction;
 
 import java.io.*;
 import java.nio.charset.Charset;

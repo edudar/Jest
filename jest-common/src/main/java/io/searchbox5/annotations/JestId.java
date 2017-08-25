@@ -1,4 +1,4 @@
-package io.searchbox.annotations;
+package io.searchbox5.annotations;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

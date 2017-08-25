@@ -1,4 +1,4 @@
-package io.searchbox.params;
+package io.searchbox5.params;
 
 /**
  * @author ferhat

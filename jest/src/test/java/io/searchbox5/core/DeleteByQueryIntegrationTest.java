@@ -1,15 +1,10 @@
-package io.searchbox.core;
+package io.searchbox5.core;
 
-import io.searchbox.client.JestResult;
-import io.searchbox.common.AbstractIntegrationTest;
+import io.searchbox5.client.JestResult;
+import io.searchbox5.common.AbstractIntegrationTest;
 import org.elasticsearch.action.DocWriteResponse;
-import org.elasticsearch.plugins.Plugin;
-import org.elasticsearch.test.ESIntegTestCase;
-import org.junit.Test;
 
 import java.io.IOException;
-import java.util.Collection;
-import java.util.Collections;
 
 /**
  * @author Dogukan Sonmez

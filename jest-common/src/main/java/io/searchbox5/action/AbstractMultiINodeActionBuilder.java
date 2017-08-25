@@ -1,4 +1,4 @@
-package io.searchbox.action;
+package io.searchbox5.action;
 
 import com.google.common.base.Joiner;
 import com.google.common.base.Strings;

@@ -1,4 +1,4 @@
-package io.searchbox.client.config.idle;
+package io.searchbox5.client.config.idle;
 
 import java.util.concurrent.TimeUnit;
 

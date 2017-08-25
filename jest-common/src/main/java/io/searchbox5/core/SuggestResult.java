@@ -1,8 +1,8 @@
-package io.searchbox.core;
+package io.searchbox5.core;
 
 import com.google.gson.Gson;
 import com.google.gson.JsonElement;
-import io.searchbox.client.JestResult;
+import io.searchbox5.client.JestResult;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,6 +1,6 @@
 package com.searchly.jestdroid;
 
-import io.searchbox.client.config.idle.ReapableConnectionManager;
+import io.searchbox5.client.config.idle.ReapableConnectionManager;
 import org.apache.http.impl.conn.PoolingHttpClientConnectionManager;
 
 import java.util.concurrent.TimeUnit;

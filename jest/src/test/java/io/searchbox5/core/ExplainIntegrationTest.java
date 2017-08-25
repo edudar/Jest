@@ -1,6 +1,6 @@
-package io.searchbox.core;
+package io.searchbox5.core;
 
-import io.searchbox.common.AbstractIntegrationTest;
+import io.searchbox5.common.AbstractIntegrationTest;
 import org.elasticsearch.action.index.IndexRequest;
 import org.elasticsearch.action.support.WriteRequest;
 import org.elasticsearch.test.ESIntegTestCase;

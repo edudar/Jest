@@ -1,4 +1,4 @@
-package io.searchbox.core.search.sort;
+package io.searchbox5.core.search.sort;
 
 import org.json.JSONException;
 import org.junit.Test;
@@ -7,8 +7,8 @@ import org.skyscreamer.jsonassert.JSONAssert;
 import com.google.gson.Gson;
 import com.google.gson.JsonObject;
 
-import io.searchbox.core.search.sort.Sort.Missing;
-import io.searchbox.core.search.sort.Sort.Sorting;
+import io.searchbox5.core.search.sort.Sort.Missing;
+import io.searchbox5.core.search.sort.Sort.Sorting;
 
 /**
  * @author Riccardo Tasso

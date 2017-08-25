@@ -1,4 +1,4 @@
-package io.searchbox.core.search.aggregation;
+package io.searchbox5.core.search.aggregation;
 
 import com.google.gson.JsonElement;
 import com.google.gson.JsonObject;

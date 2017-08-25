@@ -1,7 +1,7 @@
-package io.searchbox.cluster;
+package io.searchbox5.cluster;
 
-import io.searchbox.action.AbstractMultiINodeActionBuilder;
-import io.searchbox.action.GenericResultAbstractAction;
+import io.searchbox5.action.AbstractMultiINodeActionBuilder;
+import io.searchbox5.action.GenericResultAbstractAction;
 
 /**
  * @author Dogukan Sonmez

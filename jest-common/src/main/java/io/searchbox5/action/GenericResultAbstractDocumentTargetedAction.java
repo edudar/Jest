@@ -1,7 +1,7 @@
-package io.searchbox.action;
+package io.searchbox5.action;
 
 import com.google.gson.Gson;
-import io.searchbox.client.JestResult;
+import io.searchbox5.client.JestResult;
 
 /**
  * @author cihat keser

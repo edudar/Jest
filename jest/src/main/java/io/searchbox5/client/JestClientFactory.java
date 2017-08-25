@@ -1,12 +1,12 @@
-package io.searchbox.client;
+package io.searchbox5.client;
 
 import com.google.common.base.Strings;
 import com.google.gson.Gson;
-import io.searchbox.client.config.HttpClientConfig;
-import io.searchbox.client.config.discovery.NodeChecker;
-import io.searchbox.client.config.idle.HttpReapableConnectionManager;
-import io.searchbox.client.config.idle.IdleConnectionReaper;
-import io.searchbox.client.http.JestHttpClient;
+import io.searchbox5.client.config.HttpClientConfig;
+import io.searchbox5.client.config.discovery.NodeChecker;
+import io.searchbox5.client.config.idle.HttpReapableConnectionManager;
+import io.searchbox5.client.config.idle.IdleConnectionReaper;
+import io.searchbox5.client.http.JestHttpClient;
 import org.apache.http.HttpHost;
 import org.apache.http.client.AuthCache;
 import org.apache.http.client.config.RequestConfig;

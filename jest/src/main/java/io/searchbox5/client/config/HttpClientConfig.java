@@ -1,4 +1,4 @@
-package io.searchbox.client.config;
+package io.searchbox5.client.config;
 
 import org.apache.http.HttpHost;
 import org.apache.http.auth.AuthScope;

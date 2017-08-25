@@ -1,6 +1,6 @@
 package com.searchly.jestdroid;
 
-import io.searchbox.client.config.ClientConfig;
+import io.searchbox5.client.config.ClientConfig;
 import org.apache.http.HttpHost;
 import org.apache.http.auth.AuthScope;
 import org.apache.http.auth.UsernamePasswordCredentials;

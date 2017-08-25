@@ -1,7 +1,7 @@
-package io.searchbox.client;
+package io.searchbox5.client;
 
 import com.google.common.collect.Maps;
-import io.searchbox.action.Action;
+import io.searchbox5.action.Action;
 import org.junit.Test;
 
 import java.io.IOException;

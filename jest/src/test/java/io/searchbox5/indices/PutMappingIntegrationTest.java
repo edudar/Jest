@@ -1,8 +1,8 @@
-package io.searchbox.indices;
+package io.searchbox5.indices;
 
-import io.searchbox.client.JestResult;
-import io.searchbox.common.AbstractIntegrationTest;
-import io.searchbox.indices.mapping.PutMapping;
+import io.searchbox5.client.JestResult;
+import io.searchbox5.common.AbstractIntegrationTest;
+import io.searchbox5.indices.mapping.PutMapping;
 import org.elasticsearch.cluster.ClusterState;
 import org.elasticsearch.cluster.routing.ShardRouting;
 import org.elasticsearch.cluster.service.ClusterService;
@@ -10,7 +10,6 @@ import org.elasticsearch.index.mapper.DocumentMapper;
 import org.elasticsearch.index.mapper.KeywordFieldMapper;
 import org.elasticsearch.index.mapper.MapperService;
 import org.elasticsearch.index.mapper.RootObjectMapper;
-import org.elasticsearch.index.mapper.StringFieldMapper;
 import org.elasticsearch.indices.IndicesService;
 import org.elasticsearch.test.ESIntegTestCase;
 import org.junit.Before;

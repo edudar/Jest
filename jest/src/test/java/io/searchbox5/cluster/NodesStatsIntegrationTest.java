@@ -1,10 +1,10 @@
-package io.searchbox.cluster;
+package io.searchbox5.cluster;
 
 import com.google.gson.JsonElement;
 import com.google.gson.JsonObject;
 import com.google.gson.JsonPrimitive;
-import io.searchbox.client.JestResult;
-import io.searchbox.common.AbstractIntegrationTest;
+import io.searchbox5.client.JestResult;
+import io.searchbox5.common.AbstractIntegrationTest;
 import org.elasticsearch.test.ESIntegTestCase;
 import org.junit.Before;
 import org.junit.Test;

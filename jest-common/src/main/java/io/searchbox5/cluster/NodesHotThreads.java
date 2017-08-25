@@ -1,8 +1,8 @@
-package io.searchbox.cluster;
+package io.searchbox5.cluster;
 
 import com.google.gson.JsonObject;
-import io.searchbox.action.AbstractMultiINodeActionBuilder;
-import io.searchbox.action.GenericResultAbstractAction;
+import io.searchbox5.action.AbstractMultiINodeActionBuilder;
+import io.searchbox5.action.GenericResultAbstractAction;
 
 /**
  * Allows to get the current hot threads on each node in the cluster.

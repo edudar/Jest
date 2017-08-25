@@ -1,4 +1,4 @@
-package io.searchbox.core.search.aggregation;
+package io.searchbox5.core.search.aggregation;
 
 import com.google.gson.JsonArray;
 import com.google.gson.JsonElement;
@@ -8,7 +8,7 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.Objects;
 
-import static io.searchbox.core.search.aggregation.AggregationField.*;
+import static io.searchbox5.core.search.aggregation.AggregationField.*;
 
 /**
  * @author cfstout

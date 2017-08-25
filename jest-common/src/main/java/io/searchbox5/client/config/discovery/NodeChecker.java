@@ -1,4 +1,4 @@
-package io.searchbox.client.config.discovery;
+package io.searchbox5.client.config.discovery;
 
 import com.google.common.base.Joiner;
 import com.google.common.base.Splitter;
@@ -9,11 +9,11 @@ import com.google.common.util.concurrent.ThreadFactoryBuilder;
 import com.google.gson.JsonElement;
 import com.google.gson.JsonObject;
 
-import io.searchbox.client.JestClient;
-import io.searchbox.client.JestResult;
-import io.searchbox.client.config.ClientConfig;
-import io.searchbox.client.config.exception.CouldNotConnectException;
-import io.searchbox.cluster.NodesInfo;
+import io.searchbox5.client.JestClient;
+import io.searchbox5.client.JestResult;
+import io.searchbox5.client.config.ClientConfig;
+import io.searchbox5.client.config.exception.CouldNotConnectException;
+import io.searchbox5.cluster.NodesInfo;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

@@ -1,9 +1,9 @@
-package io.searchbox.core;
+package io.searchbox5.core;
 
 import com.google.common.base.Strings;
 import com.google.gson.Gson;
 import com.google.gson.JsonObject;
-import io.searchbox.action.Action;
+import io.searchbox5.action.Action;
 import org.junit.Test;
 
 import static org.junit.Assert.*;

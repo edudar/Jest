@@ -1,12 +1,12 @@
-package io.searchbox.core;
+package io.searchbox5.core;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
-import io.searchbox.client.JestResult;
-import io.searchbox.client.config.HttpClientConfig;
-import io.searchbox.client.http.JestHttpClient;
-import io.searchbox.common.AbstractIntegrationTest;
-import io.searchbox.params.Parameters;
+import io.searchbox5.client.JestResult;
+import io.searchbox5.client.config.HttpClientConfig;
+import io.searchbox5.client.http.JestHttpClient;
+import io.searchbox5.common.AbstractIntegrationTest;
+import io.searchbox5.params.Parameters;
 import org.elasticsearch.action.get.GetRequest;
 import org.elasticsearch.action.get.GetResponse;
 import org.elasticsearch.test.ESIntegTestCase;

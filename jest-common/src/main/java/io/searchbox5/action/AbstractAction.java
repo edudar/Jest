@@ -1,4 +1,4 @@
-package io.searchbox.action;
+package io.searchbox5.action;
 
 import com.google.common.base.Joiner;
 import com.google.common.base.MoreObjects;
@@ -9,10 +9,10 @@ import com.google.gson.JsonElement;
 import com.google.gson.JsonObject;
 import com.google.gson.JsonParser;
 import com.google.gson.JsonSyntaxException;
-import io.searchbox.annotations.JestId;
-import io.searchbox.client.JestResult;
-import io.searchbox.params.Parameters;
-import io.searchbox.strings.StringUtils;
+import io.searchbox5.annotations.JestId;
+import io.searchbox5.client.JestResult;
+import io.searchbox5.params.Parameters;
+import io.searchbox5.strings.StringUtils;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 

@@ -1,9 +1,9 @@
-package io.searchbox.core;
+package io.searchbox5.core;
 
 import com.google.gson.Gson;
 import com.google.gson.JsonParser;
-import io.searchbox.annotations.JestId;
-import io.searchbox.annotations.JestVersion;
+import io.searchbox5.annotations.JestId;
+import io.searchbox5.annotations.JestVersion;
 import org.junit.Test;
 
 import java.util.List;

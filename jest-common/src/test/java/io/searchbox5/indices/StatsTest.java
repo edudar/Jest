@@ -1,6 +1,6 @@
-package io.searchbox.indices;
+package io.searchbox5.indices;
 
-import io.searchbox.action.Action;
+import io.searchbox5.action.Action;
 import org.junit.Test;
 
 import java.net.URLDecoder;

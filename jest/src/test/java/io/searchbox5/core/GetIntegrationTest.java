@@ -1,4 +1,4 @@
-package io.searchbox.core;
+package io.searchbox5.core;
 
 import java.io.IOException;
 import java.util.concurrent.CountDownLatch;
@@ -14,9 +14,9 @@ import org.junit.Before;
 import org.junit.Test;
 import org.skyscreamer.jsonassert.JSONAssert;
 
-import io.searchbox.annotations.JestId;
-import io.searchbox.client.JestResultHandler;
-import io.searchbox.common.AbstractIntegrationTest;
+import io.searchbox5.annotations.JestId;
+import io.searchbox5.client.JestResultHandler;
+import io.searchbox5.common.AbstractIntegrationTest;
 
 /**
  * @author Dogukan Sonmez

@@ -1,4 +1,4 @@
-package io.searchbox.search.aggregation;
+package io.searchbox5.search.aggregation;
 
 import static org.junit.Assert.*;
 
@@ -9,10 +9,10 @@ import org.junit.Test;
 import com.google.gson.Gson;
 import com.google.gson.JsonParser;
 
-import io.searchbox.core.SearchResult;
-import io.searchbox.core.search.aggregation.TermsAggregation;
-import io.searchbox.core.search.aggregation.TermsAggregation.Entry;
-import io.searchbox.core.search.aggregation.TopHitsAggregation;
+import io.searchbox5.core.SearchResult;
+import io.searchbox5.core.search.aggregation.TermsAggregation;
+import io.searchbox5.core.search.aggregation.TermsAggregation.Entry;
+import io.searchbox5.core.search.aggregation.TopHitsAggregation;
 
 public class TopHitsAggregationTest {
     String json = "{\n" +

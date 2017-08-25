@@ -1,4 +1,4 @@
-package io.searchbox.core.search.aggregation;
+package io.searchbox5.core.search.aggregation;
 
 import com.google.gson.JsonArray;
 import com.google.gson.JsonElement;
@@ -8,12 +8,12 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.Objects;
 
-import static io.searchbox.core.search.aggregation.AggregationField.BUCKETS;
-import static io.searchbox.core.search.aggregation.AggregationField.DOC_COUNT;
-import static io.searchbox.core.search.aggregation.AggregationField.DOC_COUNT_ERROR_UPPER_BOUND;
-import static io.searchbox.core.search.aggregation.AggregationField.KEY;
-import static io.searchbox.core.search.aggregation.AggregationField.SUM_OTHER_DOC_COUNT;
-import static io.searchbox.core.search.aggregation.AggregationField.KEY_AS_STRING;;
+import static io.searchbox5.core.search.aggregation.AggregationField.BUCKETS;
+import static io.searchbox5.core.search.aggregation.AggregationField.DOC_COUNT;
+import static io.searchbox5.core.search.aggregation.AggregationField.DOC_COUNT_ERROR_UPPER_BOUND;
+import static io.searchbox5.core.search.aggregation.AggregationField.KEY;
+import static io.searchbox5.core.search.aggregation.AggregationField.SUM_OTHER_DOC_COUNT;
+import static io.searchbox5.core.search.aggregation.AggregationField.KEY_AS_STRING;;
 
 /**
  * @author cfstout

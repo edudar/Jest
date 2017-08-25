@@ -1,12 +1,12 @@
-package io.searchbox.client.config.discovery;
+package io.searchbox5.client.config.discovery;
 
 import com.google.common.collect.ImmutableMap;
 import com.google.gson.Gson;
-import io.searchbox.action.Action;
-import io.searchbox.client.JestClient;
-import io.searchbox.client.JestResult;
-import io.searchbox.client.config.ClientConfig;
-import io.searchbox.client.config.exception.CouldNotConnectException;
+import io.searchbox5.action.Action;
+import io.searchbox5.client.JestClient;
+import io.searchbox5.client.JestResult;
+import io.searchbox5.client.config.ClientConfig;
+import io.searchbox5.client.config.exception.CouldNotConnectException;
 import org.junit.Before;
 import org.junit.Test;
 import org.mockito.ArgumentCaptor;

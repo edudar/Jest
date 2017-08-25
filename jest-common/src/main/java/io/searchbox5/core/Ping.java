@@ -1,6 +1,6 @@
-package io.searchbox.core;
+package io.searchbox5.core;
 
-import io.searchbox.action.GenericResultAbstractAction;
+import io.searchbox5.action.GenericResultAbstractAction;
 
 public class Ping extends GenericResultAbstractAction {
     protected Ping(Builder builder) {

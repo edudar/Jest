@@ -1,7 +1,7 @@
-package io.searchbox.action;
+package io.searchbox5.action;
 
 import com.google.gson.Gson;
-import io.searchbox.core.DocumentResult;
+import io.searchbox5.core.DocumentResult;
 
 /**
  * @author Bartosz Polnik

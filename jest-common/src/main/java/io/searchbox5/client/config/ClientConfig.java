@@ -1,4 +1,4 @@
-package io.searchbox.client.config;
+package io.searchbox5.client.config;
 
 import com.google.gson.Gson;
 

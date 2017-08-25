@@ -1,7 +1,7 @@
-package io.searchbox.snapshot;
+package io.searchbox5.snapshot;
 
 import com.google.common.base.Joiner;
-import io.searchbox.action.GenericResultAbstractAction;
+import io.searchbox5.action.GenericResultAbstractAction;
 
 import java.util.Collection;
 import java.util.LinkedHashSet;

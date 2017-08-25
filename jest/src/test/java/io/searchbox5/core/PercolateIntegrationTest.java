@@ -1,10 +1,8 @@
-package io.searchbox.core;
+package io.searchbox5.core;
 
 
-import io.searchbox.client.JestResult;
-import io.searchbox.common.AbstractIntegrationTest;
-import org.elasticsearch.action.admin.indices.mapping.put.PutMappingRequest;
-import org.elasticsearch.action.admin.indices.mapping.put.PutMappingResponse;
+import io.searchbox5.client.JestResult;
+import io.searchbox5.common.AbstractIntegrationTest;
 import org.elasticsearch.test.ESIntegTestCase;
 import org.junit.Test;
 

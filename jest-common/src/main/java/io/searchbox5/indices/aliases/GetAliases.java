@@ -1,7 +1,7 @@
-package io.searchbox.indices.aliases;
+package io.searchbox5.indices.aliases;
 
-import io.searchbox.action.AbstractMultiIndexActionBuilder;
-import io.searchbox.action.GenericResultAbstractAction;
+import io.searchbox5.action.AbstractMultiIndexActionBuilder;
+import io.searchbox5.action.GenericResultAbstractAction;
 
 /**
  * @author cihat keser

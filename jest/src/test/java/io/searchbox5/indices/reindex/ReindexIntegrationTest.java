@@ -1,8 +1,8 @@
-package io.searchbox.indices.reindex;
+package io.searchbox5.indices.reindex;
 
 import com.google.common.collect.ImmutableMap;
-import io.searchbox.client.JestResult;
-import io.searchbox.common.AbstractIntegrationTest;
+import io.searchbox5.client.JestResult;
+import io.searchbox5.common.AbstractIntegrationTest;
 import org.elasticsearch.index.reindex.ReindexPlugin;
 import org.elasticsearch.plugins.Plugin;
 import org.elasticsearch.test.ESIntegTestCase;
@@ -11,7 +11,6 @@ import org.junit.Test;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Collection;
-import java.util.Collections;
 
 /**
  * @author fabien baligand

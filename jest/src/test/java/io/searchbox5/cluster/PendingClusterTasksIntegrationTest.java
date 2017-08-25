@@ -1,8 +1,8 @@
-package io.searchbox.cluster;
+package io.searchbox5.cluster;
 
 import com.google.common.collect.Iterables;
-import io.searchbox.client.JestResult;
-import io.searchbox.common.AbstractIntegrationTest;
+import io.searchbox5.client.JestResult;
+import io.searchbox5.common.AbstractIntegrationTest;
 import org.elasticsearch.test.ESIntegTestCase;
 import org.junit.Test;
 

@@ -1,13 +1,13 @@
-package io.searchbox.core;
+package io.searchbox5.core;
 
 import com.google.common.reflect.TypeToken;
 import com.google.gson.Gson;
 import com.google.gson.JsonObject;
-import io.searchbox.action.AbstractAction;
-import io.searchbox.action.BulkableAction;
-import io.searchbox.action.GenericResultAbstractAction;
-import io.searchbox.params.Parameters;
-import io.searchbox.strings.StringUtils;
+import io.searchbox5.action.AbstractAction;
+import io.searchbox5.action.BulkableAction;
+import io.searchbox5.action.GenericResultAbstractAction;
+import io.searchbox5.params.Parameters;
+import io.searchbox5.strings.StringUtils;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 

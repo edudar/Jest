@@ -1,4 +1,4 @@
-package io.searchbox.client.config.exception;
+package io.searchbox5.client.config.exception;
 
 /**
  * Exception that specified that the client has no

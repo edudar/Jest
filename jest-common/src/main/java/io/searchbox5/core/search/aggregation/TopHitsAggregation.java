@@ -1,11 +1,9 @@
-package io.searchbox.core.search.aggregation;
-
-import java.util.List;
+package io.searchbox5.core.search.aggregation;
 
 import com.google.gson.Gson;
 import com.google.gson.JsonObject;
 
-import io.searchbox.core.SearchResult;
+import io.searchbox5.core.SearchResult;
 
 public class TopHitsAggregation extends SearchResult {
 

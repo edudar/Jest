@@ -1,4 +1,4 @@
-package io.searchbox.client;
+package io.searchbox5.client;
 
 import com.google.common.base.Joiner;
 import com.google.common.collect.ImmutableList;
@@ -6,9 +6,9 @@ import com.google.gson.Gson;
 import com.google.gson.JsonElement;
 import com.google.gson.JsonObject;
 import com.google.gson.JsonParser;
-import io.searchbox.annotations.JestId;
-import io.searchbox.annotations.JestVersion;
-import io.searchbox.cloning.CloneUtils;
+import io.searchbox5.annotations.JestId;
+import io.searchbox5.annotations.JestVersion;
+import io.searchbox5.cloning.CloneUtils;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 

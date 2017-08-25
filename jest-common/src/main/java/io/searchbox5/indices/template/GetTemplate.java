@@ -1,4 +1,4 @@
-package io.searchbox.indices.template;
+package io.searchbox5.indices.template;
 
 /**
  * @author asierdelpozo

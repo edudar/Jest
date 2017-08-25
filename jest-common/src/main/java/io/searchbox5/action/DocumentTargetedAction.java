@@ -1,6 +1,6 @@
-package io.searchbox.action;
+package io.searchbox5.action;
 
-import io.searchbox.client.JestResult;
+import io.searchbox5.client.JestResult;
 
 /**
  * Represents an Action that <b>can <i>(but NOT necessarily does)</i></b> operate on a targeted single document on Elasticsearch.

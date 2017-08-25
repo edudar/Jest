@@ -1,6 +1,6 @@
-package io.searchbox.indices.reindex;
+package io.searchbox5.indices.reindex;
 
-import io.searchbox.action.GenericResultAbstractAction;
+import io.searchbox5.action.GenericResultAbstractAction;
 
 import java.util.HashMap;
 import java.util.Map;

@@ -1,11 +1,11 @@
-package io.searchbox.core;
+package io.searchbox5.core;
 
 import com.google.common.annotations.VisibleForTesting;
 import com.google.common.base.Joiner;
 import com.google.gson.JsonObject;
-import io.searchbox.action.AbstractMultiIndexActionBuilder;
-import io.searchbox.action.GenericResultAbstractAction;
-import io.searchbox.params.Parameters;
+import io.searchbox5.action.AbstractMultiIndexActionBuilder;
+import io.searchbox5.action.GenericResultAbstractAction;
+import io.searchbox5.params.Parameters;
 
 /**
  * @author ferhat

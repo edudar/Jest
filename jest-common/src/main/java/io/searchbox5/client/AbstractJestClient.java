@@ -1,4 +1,4 @@
-package io.searchbox.client;
+package io.searchbox5.client;
 
 
 import com.google.common.base.Joiner;
@@ -6,9 +6,9 @@ import com.google.common.collect.ImmutableList;
 import com.google.common.collect.ImmutableSet;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
-import io.searchbox.client.config.discovery.NodeChecker;
-import io.searchbox.client.config.exception.NoServerConfiguredException;
-import io.searchbox.client.config.idle.IdleConnectionReaper;
+import io.searchbox5.client.config.discovery.NodeChecker;
+import io.searchbox5.client.config.exception.NoServerConfiguredException;
+import io.searchbox5.client.config.idle.IdleConnectionReaper;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -75,7 +75,7 @@ public abstract class AbstractJestClient implements JestClient {
     }
 
     /**
-     * @throws io.searchbox.client.config.exception.NoServerConfiguredException
+     * @throws io.searchbox5.client.config.exception.NoServerConfiguredException
      */
     protected String getNextServer() {
         return serverPoolReference.get().getNextServer();

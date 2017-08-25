@@ -1,4 +1,4 @@
-package io.searchbox.core;
+package io.searchbox5.core;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertFalse;
@@ -9,8 +9,8 @@ import static org.junit.Assert.assertTrue;
 import java.util.Arrays;
 import java.util.List;
 
-import io.searchbox.action.AbstractAction;
-import io.searchbox.params.Parameters;
+import io.searchbox5.action.AbstractAction;
+import io.searchbox5.params.Parameters;
 import org.json.JSONException;
 import org.junit.Test;
 import org.skyscreamer.jsonassert.JSONAssert;
@@ -21,9 +21,9 @@ import com.google.gson.JsonElement;
 import com.google.gson.JsonObject;
 import com.google.gson.JsonParser;
 
-import io.searchbox.action.Action;
-import io.searchbox.core.search.sort.Sort;
-import io.searchbox.core.search.sort.Sort.Sorting;
+import io.searchbox5.action.Action;
+import io.searchbox5.core.search.sort.Sort;
+import io.searchbox5.core.search.sort.Sort.Sorting;
 
 /**
  * @author Dogukan Sonmez

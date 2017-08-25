@@ -1,4 +1,4 @@
-package io.searchbox.client.http;
+package io.searchbox5.client.http;
 
 import java.io.IOException;
 import java.util.concurrent.Semaphore;
@@ -9,11 +9,11 @@ import org.junit.Before;
 import org.junit.Test;
 
 import io.netty.handler.codec.http.HttpResponseStatus;
-import io.searchbox.client.JestClientFactory;
-import io.searchbox.client.JestResult;
-import io.searchbox.client.JestResultHandler;
-import io.searchbox.client.config.HttpClientConfig;
-import io.searchbox.indices.Stats;
+import io.searchbox5.client.JestClientFactory;
+import io.searchbox5.client.JestResult;
+import io.searchbox5.client.JestResultHandler;
+import io.searchbox5.client.config.HttpClientConfig;
+import io.searchbox5.indices.Stats;
 import static org.hamcrest.Matchers.containsString;
 import static org.hamcrest.core.Is.is;
 import static org.hamcrest.core.IsNot.not;

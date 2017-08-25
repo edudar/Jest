@@ -1,4 +1,4 @@
-package io.searchbox.core;
+package io.searchbox5.core;
 
 import static org.junit.Assert.assertEquals;
 

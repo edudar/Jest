@@ -1,4 +1,4 @@
-package io.searchbox.core;
+package io.searchbox5.core;
 
 import java.io.IOException;
 import java.util.Arrays;
@@ -14,7 +14,7 @@ import org.skyscreamer.jsonassert.JSONAssert;
 
 import com.google.gson.JsonArray;
 
-import io.searchbox.common.AbstractIntegrationTest;
+import io.searchbox5.common.AbstractIntegrationTest;
 import org.skyscreamer.jsonassert.JSONCompare;
 import org.skyscreamer.jsonassert.JSONCompareMode;
 

@@ -1,17 +1,17 @@
-package io.searchbox.cluster;
+package io.searchbox5.cluster;
 
 import com.google.common.collect.ImmutableList;
 import com.google.gson.JsonArray;
 import com.google.gson.JsonElement;
 import com.google.gson.JsonObject;
-import io.searchbox.client.JestResult;
-import io.searchbox.cluster.reroute.RerouteAllocateReplica;
-import io.searchbox.cluster.reroute.RerouteCancel;
-import io.searchbox.cluster.reroute.RerouteCommand;
-import io.searchbox.cluster.reroute.RerouteMove;
-import io.searchbox.common.AbstractIntegrationTest;
-import io.searchbox.core.Cat;
-import io.searchbox.core.CatResult;
+import io.searchbox5.client.JestResult;
+import io.searchbox5.cluster.reroute.RerouteAllocateReplica;
+import io.searchbox5.cluster.reroute.RerouteCancel;
+import io.searchbox5.cluster.reroute.RerouteCommand;
+import io.searchbox5.cluster.reroute.RerouteMove;
+import io.searchbox5.common.AbstractIntegrationTest;
+import io.searchbox5.core.Cat;
+import io.searchbox5.core.CatResult;
 import org.elasticsearch.test.ESIntegTestCase;
 import org.junit.After;
 import org.junit.Before;

@@ -1,7 +1,7 @@
-package io.searchbox.cluster;
+package io.searchbox5.cluster;
 
-import io.searchbox.action.AbstractAction;
-import io.searchbox.action.GenericResultAbstractAction;
+import io.searchbox5.action.AbstractAction;
+import io.searchbox5.action.GenericResultAbstractAction;
 
 /**
  * Allows to update cluster wide specific settings. Settings updated can either be persistent (applied cross restarts)

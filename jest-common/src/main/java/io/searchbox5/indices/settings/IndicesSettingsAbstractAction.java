@@ -1,6 +1,6 @@
-package io.searchbox.indices.settings;
+package io.searchbox5.indices.settings;
 
-import io.searchbox.action.GenericResultAbstractAction;
+import io.searchbox5.action.GenericResultAbstractAction;
 
 /**
  * @author cihat keser

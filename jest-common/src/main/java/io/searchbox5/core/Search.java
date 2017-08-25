@@ -1,4 +1,4 @@
-package io.searchbox.core;
+package io.searchbox5.core;
 
 import java.util.ArrayList;
 import java.util.Collection;
@@ -13,11 +13,11 @@ import com.google.gson.JsonObject;
 import com.google.gson.JsonPrimitive;
 import com.google.gson.JsonSyntaxException;
 
-import io.searchbox.action.AbstractAction;
-import io.searchbox.action.AbstractMultiTypeActionBuilder;
-import io.searchbox.core.search.sort.Sort;
-import io.searchbox.params.Parameters;
-import io.searchbox.params.SearchType;
+import io.searchbox5.action.AbstractAction;
+import io.searchbox5.action.AbstractMultiTypeActionBuilder;
+import io.searchbox5.core.search.sort.Sort;
+import io.searchbox5.params.Parameters;
+import io.searchbox5.params.SearchType;
 
 /**
  * @author Dogukan Sonmez

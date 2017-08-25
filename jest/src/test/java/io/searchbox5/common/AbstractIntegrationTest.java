@@ -1,8 +1,8 @@
-package io.searchbox.common;
+package io.searchbox5.common;
 
-import io.searchbox.client.JestClientFactory;
-import io.searchbox.client.config.HttpClientConfig;
-import io.searchbox.client.http.JestHttpClient;
+import io.searchbox5.client.JestClientFactory;
+import io.searchbox5.client.config.HttpClientConfig;
+import io.searchbox5.client.http.JestHttpClient;
 import org.elasticsearch.common.network.NetworkModule;
 import org.elasticsearch.common.settings.Settings;
 import org.elasticsearch.http.HttpTransportSettings;
@@ -12,7 +12,6 @@ import org.elasticsearch.plugins.Plugin;
 import org.elasticsearch.script.mustache.MustachePlugin;
 import org.elasticsearch.test.ESIntegTestCase;
 import org.elasticsearch.transport.Netty4Plugin;
-import org.elasticsearch.transport.netty4.Netty4Transport;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Ignore;

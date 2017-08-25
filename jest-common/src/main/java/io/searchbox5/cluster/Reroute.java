@@ -1,9 +1,9 @@
-package io.searchbox.cluster;
+package io.searchbox5.cluster;
 
 import com.google.common.collect.ImmutableMap;
-import io.searchbox.action.AbstractAction;
-import io.searchbox.action.GenericResultAbstractAction;
-import io.searchbox.cluster.reroute.RerouteCommand;
+import io.searchbox5.action.AbstractAction;
+import io.searchbox5.action.GenericResultAbstractAction;
+import io.searchbox5.cluster.reroute.RerouteCommand;
 
 import java.util.Collection;
 import java.util.LinkedList;

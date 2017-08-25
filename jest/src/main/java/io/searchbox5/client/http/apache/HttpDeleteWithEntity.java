@@ -1,4 +1,4 @@
-package io.searchbox.client.http.apache;
+package io.searchbox5.client.http.apache;
 
 import org.apache.http.client.methods.HttpDelete;
 import org.apache.http.client.methods.HttpEntityEnclosingRequestBase;

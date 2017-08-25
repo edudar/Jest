@@ -1,4 +1,4 @@
-package io.searchbox.indices;
+package io.searchbox5.indices;
 
 import com.google.common.collect.ImmutableList;
 import com.google.gson.Gson;

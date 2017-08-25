@@ -1,7 +1,7 @@
-package io.searchbox.indices.type;
+package io.searchbox5.indices.type;
 
-import io.searchbox.action.AbstractMultiTypeActionBuilder;
-import io.searchbox.action.GenericResultAbstractAction;
+import io.searchbox5.action.AbstractMultiTypeActionBuilder;
+import io.searchbox5.action.GenericResultAbstractAction;
 
 /**
  * @author happyprg(hongsgo@gmail.com)

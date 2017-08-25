@@ -1,12 +1,10 @@
-package io.searchbox.core;
+package io.searchbox5.core;
 
-import io.searchbox.client.JestResultHandler;
-import io.searchbox.common.AbstractIntegrationTest;
+import io.searchbox5.client.JestResultHandler;
+import io.searchbox5.common.AbstractIntegrationTest;
 import org.elasticsearch.test.ESIntegTestCase;
 import org.junit.Ignore;
 import org.junit.Test;
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
 
 import java.io.IOException;
 import java.util.concurrent.ExecutionException;

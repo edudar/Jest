@@ -1,7 +1,7 @@
-package io.searchbox.indices.aliases;
+package io.searchbox5.indices.aliases;
 
 import com.google.common.collect.ImmutableMap;
-import io.searchbox.action.GenericResultAbstractAction;
+import io.searchbox5.action.GenericResultAbstractAction;
 
 import java.util.Collection;
 import java.util.LinkedList;

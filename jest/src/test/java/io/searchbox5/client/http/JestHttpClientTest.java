@@ -1,11 +1,11 @@
-package io.searchbox.client.http;
+package io.searchbox5.client.http;
 
-import io.searchbox.client.JestClientFactory;
-import io.searchbox.client.config.HttpClientConfig;
-import io.searchbox.client.http.apache.HttpDeleteWithEntity;
-import io.searchbox.client.http.apache.HttpGetWithEntity;
-import io.searchbox.core.Search;
-import io.searchbox.core.search.sort.Sort;
+import io.searchbox5.client.JestClientFactory;
+import io.searchbox5.client.config.HttpClientConfig;
+import io.searchbox5.client.http.apache.HttpDeleteWithEntity;
+import io.searchbox5.client.http.apache.HttpGetWithEntity;
+import io.searchbox5.core.Search;
+import io.searchbox5.core.search.sort.Sort;
 import org.apache.http.Header;
 import org.apache.http.HttpEntity;
 import org.apache.http.HttpVersion;

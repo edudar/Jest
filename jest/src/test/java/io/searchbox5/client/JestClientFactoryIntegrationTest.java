@@ -1,13 +1,12 @@
-package io.searchbox.client;
+package io.searchbox5.client;
 
-import io.searchbox.client.config.HttpClientConfig;
-import io.searchbox.client.http.JestHttpClient;
-import io.searchbox.cluster.Health;
+import io.searchbox5.client.config.HttpClientConfig;
+import io.searchbox5.client.http.JestHttpClient;
+import io.searchbox5.cluster.Health;
 import org.apache.http.impl.conn.PoolingHttpClientConnectionManager;
 import org.apache.http.pool.PoolStats;
 import org.elasticsearch.common.network.NetworkModule;
 import org.elasticsearch.common.settings.Settings;
-import org.elasticsearch.http.HttpTransportSettings;
 import org.elasticsearch.plugins.Plugin;
 import org.elasticsearch.test.ESIntegTestCase;
 import org.elasticsearch.transport.Netty4Plugin;

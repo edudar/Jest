@@ -1,6 +1,6 @@
-package io.searchbox.snapshot;
+package io.searchbox5.snapshot;
 
-import io.searchbox.action.GenericResultAbstractAction;
+import io.searchbox5.action.GenericResultAbstractAction;
 
 /**
  * @author ckeser

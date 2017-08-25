@@ -1,12 +1,12 @@
-package io.searchbox.core;
+package io.searchbox5.core;
 
 import com.google.gson.Gson;
 import com.google.gson.JsonArray;
 import com.google.gson.JsonElement;
-import io.searchbox.client.JestResult;
-import io.searchbox.common.AbstractIntegrationTest;
-import io.searchbox.params.Parameters;
-import io.searchbox.params.SearchType;
+import io.searchbox5.client.JestResult;
+import io.searchbox5.common.AbstractIntegrationTest;
+import io.searchbox5.params.Parameters;
+import io.searchbox5.params.SearchType;
 import org.apache.lucene.search.Explanation;
 import org.elasticsearch.action.DocWriteResponse;
 import org.elasticsearch.common.xcontent.XContentType;

@@ -1,4 +1,4 @@
-package io.searchbox.strings;
+package io.searchbox5.strings;
 
 public class StringUtils {
     private StringUtils() {}

@@ -1,9 +1,9 @@
-package io.searchbox.core.search.sort;
+package io.searchbox5.core.search.sort;
 
 import com.google.gson.*;
-import io.searchbox.client.JestResult;
-import io.searchbox.common.AbstractIntegrationTest;
-import io.searchbox.core.Search;
+import io.searchbox5.client.JestResult;
+import io.searchbox5.common.AbstractIntegrationTest;
+import io.searchbox5.core.Search;
 import org.elasticsearch.action.admin.indices.mapping.put.PutMappingRequest;
 import org.elasticsearch.action.index.IndexRequest;
 import org.elasticsearch.action.support.WriteRequest;

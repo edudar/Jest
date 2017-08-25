@@ -1,8 +1,8 @@
-package io.searchbox.indices;
+package io.searchbox5.indices;
 
 import com.google.gson.Gson;
-import io.searchbox.action.AbstractAction;
-import io.searchbox.action.GenericResultAbstractAction;
+import io.searchbox5.action.AbstractAction;
+import io.searchbox5.action.GenericResultAbstractAction;
 
 import java.util.ArrayList;
 import java.util.Collection;

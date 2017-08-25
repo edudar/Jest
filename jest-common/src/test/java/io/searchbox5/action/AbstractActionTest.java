@@ -1,15 +1,15 @@
-package io.searchbox.action;
+package io.searchbox5.action;
 
 import com.google.gson.Gson;
 import com.google.gson.JsonObject;
 import com.google.gson.JsonSyntaxException;
-import io.searchbox.annotations.JestId;
-import io.searchbox.client.JestResult;
-import io.searchbox.core.Delete;
-import io.searchbox.core.Get;
-import io.searchbox.core.Index;
-import io.searchbox.core.Update;
-import io.searchbox.indices.Flush;
+import io.searchbox5.annotations.JestId;
+import io.searchbox5.client.JestResult;
+import io.searchbox5.core.Delete;
+import io.searchbox5.core.Get;
+import io.searchbox5.core.Index;
+import io.searchbox5.core.Update;
+import io.searchbox5.indices.Flush;
 import org.junit.Test;
 
 import static org.junit.Assert.*;

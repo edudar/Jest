@@ -1,4 +1,4 @@
-package io.searchbox.client;
+package io.searchbox5.client;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertNotNull;
@@ -17,7 +17,7 @@ import com.google.gson.Gson;
 import com.google.gson.JsonElement;
 import com.google.gson.JsonObject;
 
-import io.searchbox.annotations.JestId;
+import io.searchbox5.annotations.JestId;
 
 /**
  * @author Dogukan Sonmez

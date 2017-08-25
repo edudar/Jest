@@ -1,7 +1,7 @@
-package io.searchbox.core;
+package io.searchbox5.core;
 
-import io.searchbox.action.AbstractMultiTypeActionBuilder;
-import io.searchbox.action.GenericResultAbstractAction;
+import io.searchbox5.action.AbstractMultiTypeActionBuilder;
+import io.searchbox5.action.GenericResultAbstractAction;
 
 /**
  * Delete By Query API  is removed in Elasticsearch version 2.0.

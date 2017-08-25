@@ -1,4 +1,4 @@
-package io.searchbox.indices;
+package io.searchbox5.indices;
 
 import org.junit.Test;
 

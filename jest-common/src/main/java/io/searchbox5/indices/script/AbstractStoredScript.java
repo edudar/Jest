@@ -1,11 +1,11 @@
-package io.searchbox.indices.script;
+package io.searchbox5.indices.script;
 
-import io.searchbox.action.AbstractAction;
-import io.searchbox.action.GenericResultAbstractAction;
+import io.searchbox5.action.AbstractAction;
+import io.searchbox5.action.GenericResultAbstractAction;
 
 import java.io.UnsupportedEncodingException;
 
-import static io.searchbox.indices.script.ScriptLanguage.GROOVY;
+import static io.searchbox5.indices.script.ScriptLanguage.GROOVY;
 import static java.net.URLEncoder.encode;
 
 /**

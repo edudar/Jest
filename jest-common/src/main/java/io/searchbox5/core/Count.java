@@ -1,8 +1,8 @@
-package io.searchbox.core;
+package io.searchbox5.core;
 
 import com.google.gson.Gson;
-import io.searchbox.action.AbstractAction;
-import io.searchbox.action.AbstractMultiTypeActionBuilder;
+import io.searchbox5.action.AbstractAction;
+import io.searchbox5.action.AbstractMultiTypeActionBuilder;
 
 /**
  * @author Dogukan Sonmez

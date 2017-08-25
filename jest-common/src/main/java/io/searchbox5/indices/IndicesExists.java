@@ -1,7 +1,7 @@
-package io.searchbox.indices;
+package io.searchbox5.indices;
 
-import io.searchbox.action.AbstractMultiIndexActionBuilder;
-import io.searchbox.action.GenericResultAbstractAction;
+import io.searchbox5.action.AbstractMultiIndexActionBuilder;
+import io.searchbox5.action.GenericResultAbstractAction;
 
 import java.util.Collection;
 

@@ -1,6 +1,6 @@
-package io.searchbox.core;
+package io.searchbox5.core;
 
-import io.searchbox.params.Parameters;
+import io.searchbox5.params.Parameters;
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;

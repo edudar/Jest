@@ -1,11 +1,11 @@
-package io.searchbox.core;
+package io.searchbox5.core;
 
 import com.google.common.collect.Lists;
 import com.google.gson.Gson;
 import com.google.gson.JsonArray;
 import com.google.gson.JsonElement;
 import com.google.gson.JsonObject;
-import io.searchbox.client.JestResult;
+import io.searchbox5.client.JestResult;
 
 import java.util.List;
 import java.util.Map;

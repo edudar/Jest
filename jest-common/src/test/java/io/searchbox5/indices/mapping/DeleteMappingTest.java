@@ -1,4 +1,4 @@
-package io.searchbox.indices.mapping;
+package io.searchbox5.indices.mapping;
 
 import org.junit.Test;
 
