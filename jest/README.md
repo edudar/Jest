@@ -37,7 +37,7 @@ Add Jest as a dependency to your project.
 
 ``` xml
 <dependency>
-  <groupId>io.searchbox</groupId>
+  <groupId>io.searchbox5</groupId>
   <artifactId>jest</artifactId>
   <version>2.0.0</version>
 </dependency>
@@ -71,7 +71,7 @@ Add Jest snapshot as a dependency to your project.
 
 ``` xml
 <dependency>
-  <groupId>io.searchbox</groupId>
+  <groupId>io.searchbox5</groupId>
   <artifactId>jest</artifactId>
   <version>2.0.1-SNAPSHOT</version>
 </dependency>
